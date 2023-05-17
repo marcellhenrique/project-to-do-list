@@ -1,0 +1,47 @@
+.form{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    margin-top: 40px;
+}
+.Card{
+    max-width: 600px;
+    margin-top: 12px;
+    margin-bottom: 12px;
+    background-color: rgb(247, 212, 148);
+}
+
+.botao-edit{
+    font-weight: bold;
+}
+
+.botao-delete{
+    color: white;
+    font-weight: bold;
+    transition: all 0.5s;
+}
+
+.botao-delete:hover{
+    background-color: red;
+    color: red;
+}
+
+.botao-logout{
+    position: absolute;
+    bottom: 6%;
+    left: 4%;
+    height: 60px;
+    width: 60px;
+    border-radius: 30px;
+    border: 0;
+    font-weight: bold;
+    background-color: rgba(155, 28, 28, 0.658);
+    color: white;
+    transition: all 0.5s;
+}
+
+.botao-logout:hover{
+    background-color: rgb(221, 38, 38, 1);
+    color: white;
+}

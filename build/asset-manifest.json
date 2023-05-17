@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/static/css/main.2ae8d937.css",
+    "main.js": "/static/js/main.f8e24ea3.js",
+    "static/media/folha.jpg": "/static/media/folha.04b7b63da25d4b48f04b.jpg",
+    "index.html": "/index.html",
+    "main.2ae8d937.css.map": "/static/css/main.2ae8d937.css.map",
+    "main.f8e24ea3.js.map": "/static/js/main.f8e24ea3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2ae8d937.css",
+    "static/js/main.f8e24ea3.js"
+  ]
+}
